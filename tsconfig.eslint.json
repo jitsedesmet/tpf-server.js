@@ -11,7 +11,7 @@
     "packages/*/bin/**/*",
     "packages/*/test/**/*.ts",
     "test/**/*.ts",
-    "vitest.config.ts"
+    "vitest.config.mts"
   ],
   "exclude": [
     "**/node_modules"
